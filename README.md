@@ -23,7 +23,7 @@ Le tableau de bord permet de suivre :
 - Le **détail des commandes** via un tableau filtrable
 
 ## 🖼️ Aperçu
-![Dashboard](captures/dashboard_overview.png)
+![Dashboard](capture/dashboard_overview.png)
 
 ## 🧰 Outils utilisés
 - Power BI Desktop  
